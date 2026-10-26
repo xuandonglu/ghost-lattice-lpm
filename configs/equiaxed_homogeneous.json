@@ -1,0 +1,21 @@
+{
+  "name": "equiaxed_homogeneous",
+  "geometry": "equiaxed",
+  "law": "j2",
+  "size": 24,
+  "grains": 8,
+  "spacing": 1.0,
+  "band": 4,
+  "window_margin": 6,
+  "increment": 0.02,
+  "maximum_load": 3.0,
+  "checkpoints": [
+    3.0
+  ],
+  "seed": 1,
+  "yield_contrast": 0.0,
+  "measured_map": "",
+  "unit": "model length",
+  "reverse": false,
+  "description": ""
+}
