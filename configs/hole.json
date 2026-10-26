@@ -1,0 +1,21 @@
+{
+  "name": "hole",
+  "geometry": "planar",
+  "law": "j2",
+  "size": 64.0,
+  "grains": 16,
+  "spacing": 0.125,
+  "band": 6.0,
+  "window_margin": 8.0,
+  "increment": 0.02,
+  "maximum_load": 2,
+  "checkpoints": [
+    2.0
+  ],
+  "seed": 1,
+  "yield_contrast": 0.0,
+  "measured_map": "",
+  "unit": "model length",
+  "reverse": false,
+  "description": ""
+}
