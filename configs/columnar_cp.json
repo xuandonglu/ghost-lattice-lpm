@@ -1,0 +1,21 @@
+{
+  "name": "columnar_cp",
+  "geometry": "columnar",
+  "law": "cp",
+  "size": 40,
+  "grains": 6,
+  "spacing": 1.0,
+  "band": 5,
+  "window_margin": 7,
+  "increment": 0.04,
+  "maximum_load": 2,
+  "checkpoints": [
+    2.0
+  ],
+  "seed": 1,
+  "yield_contrast": 0.0,
+  "measured_map": "",
+  "unit": "model length",
+  "reverse": false,
+  "description": ""
+}
