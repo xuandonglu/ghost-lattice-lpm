@@ -1,0 +1,23 @@
+{
+  "name": "coarse_slip_all",
+  "geometry": "measured",
+  "law": "slip_all",
+  "size": 64,
+  "grains": 131,
+  "spacing": 0.1,
+  "band": 2,
+  "window_margin": 3,
+  "increment": 0.25,
+  "maximum_load": 16,
+  "checkpoints": [
+    8.0,
+    12.0,
+    16.0
+  ],
+  "seed": 1,
+  "yield_contrast": 0.0,
+  "measured_map": "coarse",
+  "unit": "micrometre",
+  "reverse": false,
+  "description": ""
+}
