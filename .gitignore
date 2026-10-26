@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db
+outputs/
+build/
+dist/
+*.tmp
+*.log
+.env
+.env.*
+.idea/
+.vscode/
+
+# Generated numerical and experimental arrays
+*.npz
+*.npy
+*.ctf
+*.xlsx
