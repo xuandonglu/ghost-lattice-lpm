@@ -1,0 +1,94 @@
+{
+  "doi": "10.5281/zenodo.14532401",
+  "url": "https://zenodo.org/records/14532401",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Yang, Biaobiao",
+      "affiliation": "IMDEA Materials Institute",
+      "orcid": "0000-0001-6991-9259"
+    },
+    {
+      "name": "Xu, Xu",
+      "affiliation": "University of Manchester"
+    },
+    {
+      "name": "Lunt, David",
+      "affiliation": "United Kingdom Atomic Energy Authority",
+      "orcid": "0000-0002-0254-0583"
+    },
+    {
+      "name": "Zhang, Fan",
+      "affiliation": "Beijing Institute of Technology"
+    },
+    {
+      "name": "D. Atkinson, Michael",
+      "affiliation": "University of Manchester"
+    },
+    {
+      "name": "Li, Yunping",
+      "affiliation": "Central South University",
+      "orcid": "0000-0003-4349-172X"
+    },
+    {
+      "name": "LLorca, Javier",
+      "affiliation": "Technical University of Madrid",
+      "orcid": "0000-0002-3122-7879"
+    },
+    {
+      "name": "Zhou, Xiaorong",
+      "affiliation": "University of Manchester"
+    }
+  ],
+  "title": "Dataset used in the publication entitled \"Grain size dependence of microscopic strain distribution in a high entropy alloy at the onset of plastic deformation\"",
+  "raw_files": [
+    {
+      "name": "Fig.3CG-HEA_HRDIC.ctf",
+      "url": "https://zenodo.org/api/records/14532401/files/Fig.3CG-HEA_HRDIC.ctf/content",
+      "bytes": 41952776,
+      "md5": "d69ccb0aa92f7f767bd2fb89b985eebb"
+    },
+    {
+      "name": "Fig.3FG-HEA_HRDIC.ctf",
+      "url": "https://zenodo.org/api/records/14532401/files/Fig.3FG-HEA_HRDIC.ctf/content",
+      "bytes": 271371068,
+      "md5": "47f8df0c58fca984428980ed1c87a9e8"
+    },
+    {
+      "name": "Fig.5(B)CG-HEA_1.50%_effective shear strain.xlsx",
+      "url": "https://zenodo.org/api/records/14532401/files/Fig.5(B)CG-HEA_1.50%25_effective%20shear%20strain.xlsx/content",
+      "bytes": 7424948,
+      "md5": "802c3e3f817cc444b26ff5f28b6efbe3"
+    },
+    {
+      "name": "Fig.5(C)CG-HEA_2.25%_effective shear strain.xlsx",
+      "url": "https://zenodo.org/api/records/14532401/files/Fig.5(C)CG-HEA_2.25%25_effective%20shear%20strain.xlsx/content",
+      "bytes": 7403128,
+      "md5": "9ca22768e908129458e57fab46aacb7a"
+    },
+    {
+      "name": "Fig.5(B)FG-HEA_1.50%_effective shear strain.xlsx",
+      "url": "https://zenodo.org/api/records/14532401/files/Fig.5(B)FG-HEA_1.50%25_effective%20shear%20strain.xlsx/content",
+      "bytes": 5200641,
+      "md5": "c402995e623a2d7460aa3c9c54c27a55"
+    },
+    {
+      "name": "Fig.5(A)FG-HEA_0.75%_effective shear strain.xlsx",
+      "url": "https://zenodo.org/api/records/14532401/files/Fig.5(A)FG-HEA_0.75%25_effective%20shear%20strain.xlsx/content",
+      "bytes": 5204668,
+      "md5": "0068beb28da0c8e791f15fe908fa11fd"
+    },
+    {
+      "name": "Fig.5(C)FG-HEA_2.25%_effective shear strain.xlsx",
+      "url": "https://zenodo.org/api/records/14532401/files/Fig.5(C)FG-HEA_2.25%25_effective%20shear%20strain.xlsx/content",
+      "bytes": 5177148,
+      "md5": "81d598960a36221277e24ece80b3bab9"
+    },
+    {
+      "name": "Fig.5(A)CG-HEA_0.75%_effective shear strain.xlsx",
+      "url": "https://zenodo.org/api/records/14532401/files/Fig.5(A)CG-HEA_0.75%25_effective%20shear%20strain.xlsx/content",
+      "bytes": 7446494,
+      "md5": "67ea3a480fd6586c0a5083051740f6f1"
+    }
+  ]
+}
