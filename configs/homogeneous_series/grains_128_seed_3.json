@@ -1,0 +1,22 @@
+{
+  "name": "homogeneous",
+  "geometry": "planar",
+  "law": "j2",
+  "size": 64.0,
+  "grains": 128,
+  "spacing": 1.0,
+  "band": 6.0,
+  "window_margin": 8.0,
+  "increment": 0.02,
+  "maximum_load": 3.0,
+  "checkpoints": [
+    1.0,
+    3.0
+  ],
+  "seed": 3,
+  "yield_contrast": 0.0,
+  "measured_map": "",
+  "unit": "model length",
+  "reverse": false,
+  "description": "Representative homogeneous 16-grain plate."
+}
