@@ -1,0 +1,23 @@
+{
+  "name": "fine_j2",
+  "geometry": "measured",
+  "law": "j2",
+  "size": 64,
+  "grains": 272,
+  "spacing": 0.05,
+  "band": 2,
+  "window_margin": 3,
+  "increment": 0.25,
+  "maximum_load": 16,
+  "checkpoints": [
+    8.0,
+    12.0,
+    16.0
+  ],
+  "seed": 1,
+  "yield_contrast": 0.0,
+  "measured_map": "fine",
+  "unit": "micrometre",
+  "reverse": false,
+  "description": ""
+}
