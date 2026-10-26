@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "geometry": "planar",
+  "law": "j2",
+  "size": 16,
+  "grains": 4,
+  "spacing": 1.0,
+  "band": 3,
+  "window_margin": 4,
+  "increment": 0.1,
+  "maximum_load": 3.0,
+  "checkpoints": [
+    1.0,
+    3.0
+  ],
+  "seed": 1,
+  "yield_contrast": 0.4,
+  "measured_map": "",
+  "unit": "model length",
+  "reverse": false,
+  "description": "Small demonstration; separate from the manuscript discretizations."
+}
